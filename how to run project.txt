@@ -1,0 +1,3 @@
+Open new_method file in jupyter
+and run
+blocks one by one
